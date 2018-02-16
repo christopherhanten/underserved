@@ -7,9 +7,9 @@ Independent developers do not have the resources to do their own market research
 The independent game developer, who is looking to gain a strategic edge, by using information that is already available.<br/><br/>
 
 <b>WIREFRAMES</b><br/>
-<u>index</u>
-
-![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)<br/><br/>
+index<br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)<br/>
+search results page<br/>
 ![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
 
 
