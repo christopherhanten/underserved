@@ -6,7 +6,7 @@ Independent developers do not have the resources to do their own market research
 <b>Target User</b><br/>
 The independent game developer, who is looking to gain a strategic edge, by using information that is already available.<br/><br/>
 <b>TRELLO<br/>
-https://trello.com/b/kMQuZJhT/underserved<br/><br/>
+https://trello.com/b/kMQuZJhT/underserved<br/>
 
 <b>WIREFRAMES</b><br/>
 index<br/>
