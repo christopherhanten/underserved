@@ -1,0 +1,19 @@
+as a USER
+I WANT to be able access the app's index page
+SO THAT I can do my own market research.
+
+as a USER
+I WANT TO be able to create a profile on the app
+SO THAT can log into the app.
+
+as a USER
+I WANT TO be able to sign into my profile on the app
+SO THAT I can I can be able to save items from my searches.
+
+as a USER
+I WANT TO be able to search Tags
+SO THAT I can see what tags are the most popular.
+
+as a USER
+I WANT TO select multiple Tags on the index page to be used in search
+SO THAT I can build searches upon the criteria I've selected.
