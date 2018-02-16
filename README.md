@@ -9,7 +9,7 @@ The independent game developer, who is looking to gain a strategic edge, by usin
 <b>WIREFRAMES</b><br/>
 index<br/>
 ![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)<br/><br/>
-search results page<br/><br/>
+search results page<br/>
 ![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
 user profile page
 ![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
