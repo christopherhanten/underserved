@@ -6,5 +6,7 @@ Independent developers do not have the resources to do their own market research
 <b>Target User</b><br/>
 The independent game developer, who is looking to gain a strategic edge, by using information that is already available.
 
-![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)
+![MP](https://github.com/christopherhanten/underserved/blob/master/image.png)<br/><br/>
+![MP](https://github.com/christopherhanten/underserved/blob/master/untitled_page_1.png)<br/><br/>
+
 
